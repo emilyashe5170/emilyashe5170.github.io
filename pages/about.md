@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about
 section: about
 intro_paragraph: |
-  About Me:
+  
 ---
 I am a second year student at Wilfrid Laurier University, currently enrolled in the User Experience Design program
 
