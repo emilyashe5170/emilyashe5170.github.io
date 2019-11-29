@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BQ Practice
+title: Blockquote Practice
 author: Emily Ashe
 date: 2019-09-16
 intro_paragraph: ''
