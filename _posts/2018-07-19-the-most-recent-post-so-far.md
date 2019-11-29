@@ -10,6 +10,6 @@ categories: misc
   <h1> A famous quote </h1>
   <blockqupte>
     I am just a <em>poor</em> boy from a poor family
-    </blockquote>
+   
   <p> This was the quote that came to mind. From Queen's Bohemian Rhapsody</p>
-  </body>
+
