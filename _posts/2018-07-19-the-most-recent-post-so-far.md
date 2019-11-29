@@ -12,5 +12,3 @@ categories: misc
     I am just a <em>poor</em> boy from a poor family
    
   <p> This was the quote that came to mind. From Queen's Bohemian Rhapsody</p>
-
-(/assets/img/uploads/screenshot-editor.jpg)
