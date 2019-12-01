@@ -7,9 +7,5 @@ categories: misc
 ---
 
 ![Netlify CMS Screenshot](/assets/img/uploads/Assignment4.jpeg)
-
-
 ![Netlify CMS Screenshot](/assets/img/uploads/Assignment4.1.jpeg)
-
-
 ![Netlify CMS Screenshot](/assets/img/uploads/Assignment4.2.jpeg)
