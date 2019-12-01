@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assignment 2
-author: john_doe
+author: Emily Ashe
 date: '2018-07-06 12:00:00'
 categories: misc
 ---
