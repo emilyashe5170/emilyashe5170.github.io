@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Box Model Practice
+title: Assignment 2
 author: Emily Ashe
 date: '2019-09-30'
 intro_paragraph: '>
