@@ -7,9 +7,9 @@ categories: misc
 
 
 
-I started with pencil sketches of how I wanted this design to look
+Starting with pencil sketches, I designed a poster that would feel welcomeing to indiviuals looking at this program from high school:
 ![Netlify CMS Screenshot](/assets/img/uploads/pencilposter.jpeg)
-Followed by actually designing it in Adobe Illustrator
+Followed by actually designing it in Adobe Illustrator:
 ![Netlify CMS Screenshot](/assets/img/uploads/illustratorposter.jpeg)
 
 **My Angle:**
