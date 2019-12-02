@@ -1,4 +1,4 @@
-# Jekyll Netlify Boilerplate
+# Emily Ashe
 
 **A really simple Jekyll template for creating a fast, static website on Netlify with
 a continuous deployment workflow.**
