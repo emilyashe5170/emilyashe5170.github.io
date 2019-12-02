@@ -9,3 +9,5 @@ intro_paragraph: >
   - Emily Ashe
   
 ---
+
+![Netlify CMS Screenshot](/assets/img/uploads/donut.jpeg)
