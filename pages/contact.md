@@ -9,5 +9,7 @@ intro_paragraph: |
 **Send me a message!**
 
 Contact me at emilyashe555@gmail.com
-or
-over linkedin at Emily Ashe
+
+and
+
+connect with me on LinkedIn!
