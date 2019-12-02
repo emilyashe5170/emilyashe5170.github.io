@@ -7,5 +7,4 @@ intro_paragraph: >
   
   "A creative life is an enjoyable life"
   - Emily Ashe
-  
-
+---
