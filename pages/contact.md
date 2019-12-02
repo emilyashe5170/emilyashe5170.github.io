@@ -1,12 +1,10 @@
 ---
-layout: contact
+layout: post
 title: Contact
-permalink: /contact
-section: contact
 
 ---
 
-**Send us a message**
+**Send me a message!**
 
 Contact me at emilyashe555@gmail.com
 or
