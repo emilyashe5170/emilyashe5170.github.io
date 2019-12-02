@@ -10,4 +10,4 @@ section: contact
 
 Contact me at emilyashe555@gmail.com
 or
-Contact me over linkedin
+over linkedin at Emily Ashe
