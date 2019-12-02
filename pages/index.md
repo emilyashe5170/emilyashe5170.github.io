@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: blog
 title: Emily Ashe
 permalink: /
 section: home
