@@ -12,6 +12,4 @@ Contact me at:
 
 **Email**: emilyashe555@gmail.com
 
-and
-
 Connect with me on LinkedIn!
