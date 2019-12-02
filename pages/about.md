@@ -6,10 +6,4 @@ section: about
 intro_paragraph: |
   
 ---
-I am a second year student at Wilfrid Laurier University, currently enrolled in the User Experience Design program
-
-### A heading
-
-
-#### Another heading
-
+Hello! I am a second year student at Wilfrid Laurier University, currently enrolled in the User Experience Design program. I am an aspiring UX designer who is creative and has a great interest in technology.
