@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Blockquote Practice
 author: Emily Ashe
 date: '2019-09-16'
