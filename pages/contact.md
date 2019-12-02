@@ -7,3 +7,7 @@ section: contact
 ---
 
 **Send us a message**
+
+Contact me at emilyashe555@gmail.com
+or
+Contact me over linkedin
