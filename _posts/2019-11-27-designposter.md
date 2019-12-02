@@ -5,12 +5,14 @@ author: Emily Ashe
 categories: misc
 ---
 
-**My Angle:**
----
-This was created in my graphic design class while learning photoshop. This was done with two different photos, and we altered the colours of the car. It was originally grey, however we changed the body of the car to be multiple different colours before getting into a blend of colours on the same car which is what you see here.
----
+
 
 I started with pencil sketches of how I wanted this design to look
 ![Netlify CMS Screenshot](/assets/img/uploads/pencilposter.jpeg)
 Followed by actually designing it in Adobe Illustrator
 ![Netlify CMS Screenshot](/assets/img/uploads/illustratorposter.jpeg)
+
+**My Angle:**
+---
+This was created in my graphic design class while learning photoshop. This was done with two different photos, and we altered the colours of the car. It was originally grey, however we changed the body of the car to be multiple different colours before getting into a blend of colours on the same car which is what you see here.
+---
