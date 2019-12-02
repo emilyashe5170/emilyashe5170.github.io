@@ -8,8 +8,9 @@ intro_paragraph: |
 ---
 **Send me a message!**
 
-Contact me at emilyashe555@gmail.com
+Contact me at:
+**Email**:emilyashe555@gmail.com
 
 and
 
-connect with me on LinkedIn!
+Connect with me on LinkedIn!
