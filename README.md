@@ -1,3 +1,3 @@
 # Emily Ashe
 
-![](assets/img/upload/Ashe_Harry's.gif)
+![NetlifyScreenshot](assets/img/uploads/Ashe_Harry's.gif)
