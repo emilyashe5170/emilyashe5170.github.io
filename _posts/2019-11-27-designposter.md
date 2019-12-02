@@ -14,5 +14,5 @@ Followed by actually designing it in Adobe Illustrator:
 
 **My Angle:**
 ---
-This was created in my graphic design class while learning photoshop. This was done with two different photos, and we altered the colours of the car. It was originally grey, however we changed the body of the car to be multiple different colours before getting into a blend of colours on the same car which is what you see here.
+This User Experience Design poster is something I am currently working on. It is an assignment in class with the audience being those who might be looking at different programs. The goal of this project is to make those who are not in the UX program, want to be in the UX program!
 
