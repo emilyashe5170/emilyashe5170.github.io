@@ -9,7 +9,8 @@ intro_paragraph: |
 **Send me a message!**
 
 Contact me at:
-**Email**:emilyashe555@gmail.com
+
+**Email**: emilyashe555@gmail.com
 
 and
 
