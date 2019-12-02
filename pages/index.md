@@ -5,6 +5,6 @@ permalink: /
 section: home
 intro_paragraph: >
   
-  "A creative life is an enjoyable life"
-  - Emily Ashe
+  “Your most unhappy customers are your greatest source of learning.”
+  - Bill Gates
 ---
